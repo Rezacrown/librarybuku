@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/librarybuku/static/css/main.d4268969.css",
+    "main.js": "/librarybuku/static/js/main.d50b23fa.js",
+    "static/js/787.3a321be3.chunk.js": "/librarybuku/static/js/787.3a321be3.chunk.js",
+    "index.html": "/librarybuku/index.html",
+    "main.d4268969.css.map": "/librarybuku/static/css/main.d4268969.css.map",
+    "main.d50b23fa.js.map": "/librarybuku/static/js/main.d50b23fa.js.map",
+    "787.3a321be3.chunk.js.map": "/librarybuku/static/js/787.3a321be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4268969.css",
+    "static/js/main.d50b23fa.js"
+  ]
+}
