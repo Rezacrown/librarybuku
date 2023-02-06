@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/librarybuku/static/css/main.d4268969.css",
-    "main.js": "/librarybuku/static/js/main.d50b23fa.js",
+    "main.css": "/librarybuku/static/css/main.95ab00e7.css",
+    "main.js": "/librarybuku/static/js/main.cd0d619c.js",
     "static/js/787.3a321be3.chunk.js": "/librarybuku/static/js/787.3a321be3.chunk.js",
     "index.html": "/librarybuku/index.html",
-    "main.d4268969.css.map": "/librarybuku/static/css/main.d4268969.css.map",
-    "main.d50b23fa.js.map": "/librarybuku/static/js/main.d50b23fa.js.map",
+    "main.95ab00e7.css.map": "/librarybuku/static/css/main.95ab00e7.css.map",
+    "main.cd0d619c.js.map": "/librarybuku/static/js/main.cd0d619c.js.map",
     "787.3a321be3.chunk.js.map": "/librarybuku/static/js/787.3a321be3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4268969.css",
-    "static/js/main.d50b23fa.js"
+    "static/css/main.95ab00e7.css",
+    "static/js/main.cd0d619c.js"
   ]
 }
